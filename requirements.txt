@@ -26,6 +26,9 @@ pickle-mixin>=1.0.2
 # Statistical Analysis
 statsmodels>=0.13.0
 
+# Web Framework for API
+flask>=2.0.0
+
 # Utilities
 tqdm>=4.64.0
 warnings
